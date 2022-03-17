@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.1.3...v0.2.0) (2022-03-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* test
+
+### ci
+
+* test ([31e7d6d](https://github.com/Sovenique/java-maven-standard-version-sample/commit/31e7d6d41838d4c3f89b91a97113cb4d391f6908))
+
 ### [0.1.3](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.1.2...v0.1.3) (2022-03-17)
 
 ### [0.1.2](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.1.1...v0.1.2) (2022-03-17)
