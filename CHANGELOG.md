@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.1](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.1.0...v0.1.1) (2022-03-17)
 
+### [0.1.1](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.1.0...v0.1.1) (2022-03-17)
+
 ## 0.1.0 (2022-03-17)
 
 
