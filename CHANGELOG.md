@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.2.1...v0.3.0) (2022-03-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* shell extreme script
+
+### Bug Fixes
+
+* shell extreme script ([61b253a](https://github.com/Sovenique/java-maven-standard-version-sample/commit/61b253a43fb8574f0ff8e38364edf1852a491167))
+* shell extreme script ([772dc3c](https://github.com/Sovenique/java-maven-standard-version-sample/commit/772dc3c94044fd9e4635555fa3486a38984de0c9))
+
 ### [0.2.1](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.2.0...v0.2.1) (2022-03-17)
 
 ## [0.2.0](https://github.com/Sovenique/java-maven-standard-version-sample/compare/v0.1.3...v0.2.0) (2022-03-17)
